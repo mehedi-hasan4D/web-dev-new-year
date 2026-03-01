@@ -1,0 +1,39 @@
+
+.title-img{
+  margin-bottom: 120px;
+    
+}
+.vector-img{
+    margin-top: 120px;
+    margin-left: 140px;
+    margin-right:140px ;
+    margin-bottom: 120px;
+   
+}
+.section-header{
+    text-align: center;
+   
+}
+.section-title{
+    font-weight: bold;
+    font-size: 88px;
+    color: #FF0000;
+    margin: 0 200px 50px 200px;
+}
+.section-description{
+    font-weight: 400PX;
+    font-size: 24px;
+    color: #FF0000;
+    margin-bottom: auto;
+}
+.header-2{
+   font-weight:bold;
+    font-size: 48px;
+    color: #070211; 
+}
+.section-img{
+    margin-top: auto;
+}
+.bg-color{
+    background-color: #FF0000;
+}
