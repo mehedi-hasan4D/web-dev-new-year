@@ -1,4 +1,21 @@
 
+
+.merriweather-normal{
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.inter-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 .title-img{
   margin-bottom: 120px;
     
@@ -35,5 +52,58 @@
     margin-top: auto;
 }
 .bg-color{
+    background-color: #e4b8b8e6;
+    padding: 100px 350px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    text-align: center;
+    margin: 120px 1200px;
+    margin-top: auto;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    position: calc(142);
+    position: var(2400);
+}
+.h4-title{
+    font-weight: 600px;
+    font-size: 32px;
+}
+span{
+    color: #FF0000;
+}
+.btn-primary{
     background-color: #FF0000;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+}
+.section-hed{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.sec-header{
+    margin: 120px 140px;
+}
+.div-hed{
+    font-weight: 600px;
+    font-size: 24px;
+    color: #FF0000;
+}
+.div-main-hed{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+}
+.div-main-heed{
+    font-size: 48px;
+    font-weight: bold;
+    color: #FF0000;
+}
+.ima-ell{
+    
 }
